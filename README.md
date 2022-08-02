@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gaurang1602
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gaurang Agrawal
+- 👀 I’m interested in Programming and Full Stack Web Development.
+- 🌱 I’m currently learning both programming and Web Development.
+- 💞️ I’m looking to collaborate on open source
+- 📫 How to reach me -->>  Through linkedin
 
 <!---
 Gaurang1602/Gaurang1602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
