@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gaurang Agrawal
+## 👋 Hi, I’m Gaurang Agrawal
 - 👀 I’m interested in Programming and Full Stack Web Development.
 - 🌱 I’m currently learning both programming and Web Development.
 - 💞️ I’m looking to collaborate on open source
