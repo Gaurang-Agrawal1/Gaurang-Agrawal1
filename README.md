@@ -1,3 +1,4 @@
+![](https://github.com/Gaurang1602/Gaurang1602/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).gif)
 <h1 align="center">Hi 👋, I'm Gaurang Agrawal</h1>
 <h3 align="center">A passionate Software Engineer from India and a C.S.E Student.</h3>
 <img align="right" alt="Coding" Width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&usqp=CAU"
