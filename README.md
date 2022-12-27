@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurang1602&label=Profile%20views&color=0e75b6&style=flat" alt="gaurang1602" /> </p>
 
-- 🔭 I’m currently Pursuing my Bachelor in  Computer Science and I am working on [Portfolio website](https://gaurang1602.github.io/WEB-DEVELOPMENT/)
+- 🔭 I’m currently Pursueing my Bachelor in  Computer Science and I am working on [Portfolio website](https://gaurang1602.github.io/WEB-DEVELOPMENT/)
 
 - 🌱 I’m currently learning **JAVA,C++,HTML,CSS,JavaScript,MongoDB,BootStrap,Expess.js, Node.js**
 
