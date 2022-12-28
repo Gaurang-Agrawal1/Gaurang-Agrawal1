@@ -22,7 +22,8 @@
 
 <br><br><br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurang1602" alt="gaurang1602" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurang1602&theme=darkhub" alt="gaurang1602" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
