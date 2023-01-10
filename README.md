@@ -1,6 +1,6 @@
 ![](https://github.com/Gaurang1602/Gaurang1602/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).gif)
 <h1 align="center">Hi 👋, I'm Gaurang Agrawal</h1>
-<h3 align="center">A passionate  C.S.E Student and Frontened Developer.</h3>
+<h3 align="center">A passionate  C.S.E Student .</h3>
 <!-- Typing SVG by Gaurang1602 - https://github.com/Gaurang1602/readme-typing-svg -->
 <p align="left">
   <a href="https://github.com/Gaurang1602/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Gaurang!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
