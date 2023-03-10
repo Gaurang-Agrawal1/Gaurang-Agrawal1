@@ -45,6 +45,23 @@ else {
 
 </div>
 
+<h2 align="center">
+<p align="center"><img width="150%" 
+</p>
+
+Productivity Stats📈:
+<table>
+  <tr>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang1602&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
+   </tr> 
+</table>
+
+<!--
+<a href="https://github.com/Gaurang1602/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Gaurang1602&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>-->
+</p>
+
 <br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurang1602&theme=darkhub" alt="gaurang1602" /></a> </p>
