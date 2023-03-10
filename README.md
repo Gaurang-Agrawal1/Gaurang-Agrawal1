@@ -96,7 +96,14 @@ Productivity Stats📈:
   </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <br>
+  
+  <h3 align="left"> 📝 IDE Used:</h3>
+  
+  ![][vscode] ![][pycharm] ![][intelij]  <br><br>
     <h3 align="left">My Holophin Badges:</h3>
+  
+  
 
   
  ![An image of @gaurang1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurang1602)
@@ -111,3 +118,6 @@ Productivity Stats📈:
 
 [snake]: https://github.com/Gaurang1602/Gaurang1602/blob/output/snake.svg
 [graph]: https://github-readme-activity-graph.cyclic.app/graph?username=Gaurang1602&theme=react-dark&hide_border=false&area=true
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
+[intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
