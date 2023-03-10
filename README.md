@@ -37,6 +37,13 @@ else {
 }
 ```
 
+## 💹 Contribution Graph:
+
+<div align = "center">
+  
+![][snake] <br> ![][graph]
+
+</div>
 
 <br><br>
 
@@ -85,3 +92,5 @@ else {
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurang1602&theme=dark" alt="gaurang1602" /></p>
 
 
+[snake]: https://github.com/Gaurang1602/Gaurang1602/blob/output/snake.svg
+[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=Gaurang1602&theme=react-dark&hide_border=false&area=true
