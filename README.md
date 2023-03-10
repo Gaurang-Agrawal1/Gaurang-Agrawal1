@@ -23,10 +23,22 @@
 
 - ⚡ Fun fact **I Think I am Funny 😉😜**
 
+<br>
 
 
+## Life of Coders
+```javascript
+let life = true;
+while(life) {
+    console.log("Write Code")
+}
+else {
+    console.log("Code in next Birth")
+}
+```
 
-<br><br><br><br>
+
+<br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurang1602&theme=darkhub" alt="gaurang1602" /></a> </p>
 
