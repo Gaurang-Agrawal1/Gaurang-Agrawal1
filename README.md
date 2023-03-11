@@ -49,7 +49,7 @@ else {
 <p align="center"><img width="150%" 
 </p>
 
-Productivity Stats📈:
+## Productivity Stats📈:
 <table>
   <tr>
     <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang1602&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
