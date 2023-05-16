@@ -128,7 +128,7 @@ else {
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurang1602&theme=transparent&show_icons=true&locale=en" alt="gaurang1602" /></p>
 <br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurang1602&theme=dark" alt="gaurang1602" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurang1602&theme=radical" alt="gaurang1602" /></p>
 
 
 [snake]: https://github.com/Gaurang1602/Gaurang1602/blob/output/snake.svg
