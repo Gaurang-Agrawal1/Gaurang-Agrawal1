@@ -73,10 +73,10 @@ else {
 <a href="https://linkedin.com/in/gaurangagrawal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurangagrawal1" height="30" width="40" /></a>
 <a href="https://instagram.com/agrawal_gaurang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agrawal_gaurang_" height="30" width="40" /></a><br>
 <h3 align="left">Coding Profiles:</h3>
-<a href="https://www.codechef.com/users/gla2115000399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gla2115000399" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gaurang_agrawal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurang_agrawal1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_gaurang_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_gaurang_agrawal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gaurangagrawal162002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaurangagrawal162002" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gla2115000399" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurang_agrawal1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaurangagrawal162002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
