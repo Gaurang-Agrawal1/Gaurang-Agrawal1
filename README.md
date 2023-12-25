@@ -1,4 +1,6 @@
 ![](https://github.com/Gaurang1602/Gaurang1602/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).gif)
+![](https://github.com/Gaurang1602/Gaurang1602/blob/main/Gaurang%20Agrawal.png)
+
 <h1 align="center">Hi 👋, I'm Gaurang Agrawal</h1>
 <h3 align="center">A passionate  C.S.E Student .</h3>
 <h3 align="center">Great to see you here!!! .</h3>
