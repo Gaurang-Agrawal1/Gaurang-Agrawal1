@@ -39,7 +39,7 @@ else {
 }
 ```
 
-## 💹 Contribution Graph:
+
 
 <div align = "center">
   
@@ -63,6 +63,7 @@ else {
 </p>
 
 <br><br>
+## 💹 Trophies:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gaurang-Agrawal1&theme=darkhub" alt="Gaurang-Agrawal1" /></a> </p>
 
