@@ -40,13 +40,6 @@ else {
 ```
 
 
-
-<div align = "center">
-  
-![][snake] <br> ![][graph]
-
-</div>
-
 <h2 align="center">
 <p align="center"><img width="150%" 
 </p>
