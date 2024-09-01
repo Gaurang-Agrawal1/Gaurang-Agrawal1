@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Frontened Projects**
 
-- 👨‍💻 All of my projects are available at [https://gaurang1602.github.io/WEB-DEVELOPMENT/](https://gaurang1602.github.io/WEB-DEVELOPMENT/)
+- 👨‍💻 All of my projects are available at [https://Gaurang-Agrawal1.github.io/WEB-DEVELOPMENT/](https://Gaurang-Agrawal1.github.io/WEB-DEVELOPMENT/)
 
 - 📫 You can reach me Through Linkedin **www.linkedin.com/in/gaurangagrawal1**
 
@@ -54,19 +54,19 @@ else {
 ## Productivity Stats📈:
 <table>
   <tr>
-    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang1602&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang-Agrawal1&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
    </tr> 
 </table>
 
-<!--
-<a href="https://github.com/Gaurang1602/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Gaurang1602&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>-->
+
+<a href="https://github.com/Gaurang-Agrawal1/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Gaurang-Agrawal1&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
 </p>
 
 <br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurang1602&theme=darkhub" alt="gaurang1602" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gaurang-Agrawal1&theme=darkhub" alt="Gaurang-Agrawal1" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -126,15 +126,15 @@ else {
  ![An image of @gaurang1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurang1602)
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurang1602&theme=radical&show_icons=true&locale=en&layout=compact" alt="gaurang1602" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurang-Agrawal1&theme=radical&show_icons=true&locale=en&layout=compact" alt="gaurang1602" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurang1602&theme=transparent&show_icons=true&locale=en" alt="gaurang1602" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaurang-Agrawal1&theme=transparent&show_icons=true&locale=en" alt="gaurang1602" /></p>
 <br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurang1602&theme=radical" alt="gaurang1602" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Agrawal1&theme=radical" alt="gaurang1602" /></p>
 
 
-[snake]: https://github.com/Gaurang1602/Gaurang1602/blob/output/snake.svg
-[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=Gaurang1602&theme=react-dark&hide_border=false&area=true
+[snake]: https://github.com/Gaurang-Agrawal1/Gaurang-Agrawal1/blob/output/snake.svg
+[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=Gaurang-Agrawal1&theme=react-dark&hide_border=false&area=true
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
