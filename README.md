@@ -124,6 +124,7 @@ else {
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaurang-Agrawal1&theme=transparent&show_icons=true&locale=en" alt="gaurang1602" /></p>
 <br><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Agrawal1&theme=radical" alt="Gaurang-Agrawal1" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gaurang-Agrawal1&theme=dark)](https://git.io/streak-stats)
 
 
 [snake]: https://github.com/Gaurang-Agrawal1/Gaurang-Agrawal1/blob/output/snake.svg
