@@ -119,11 +119,11 @@ else {
  ![An image of @gaurang1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurang1602)
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurang-Agrawal1&theme=radical&show_icons=true&locale=en&layout=compact" alt="gaurang1602" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurang-Agrawal1&theme=radical&show_icons=true&locale=en&layout=compact" alt="Gaurang-Agrawal1" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaurang-Agrawal1&theme=transparent&show_icons=true&locale=en" alt="gaurang1602" /></p>
 <br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Agrawal1&theme=radical" alt="gaurang1602" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Agrawal1&theme=radical" alt="Gaurang-Agrawal1" /></p>
 
 
 [snake]: https://github.com/Gaurang-Agrawal1/Gaurang-Agrawal1/blob/output/snake.svg
