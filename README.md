@@ -117,7 +117,18 @@ else {
 
   
  ![An image of @gaurang1602's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurang1602)
-
+ 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurang-Agrawal1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurang-Agrawal1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Agrawal1&theme=tokyonight" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurang-Agrawal1&theme=radical&show_icons=true&locale=en&layout=compact" alt="Gaurang-Agrawal1" /></p>
 
